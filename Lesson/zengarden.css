@@ -1,0 +1,104 @@
+/*################################# make a blank height60 width150*/
+body {
+    padding: 60px 150px;
+}
+/*################################  highlit = ::selection*/
+h1 {
+    font-family: Arial;
+    color: #fab755;
+    font-size: 50px;
+}
+/*#################################    margin btwn each paragrapg*/
+p {
+    margin-top:20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+/*#################################    Underline h3*/
+.preamble h3 {
+              border-bottom: double
+              5px #0000ff;
+              width: 300px;
+}
+/*#################################    underline to class Preamble*/
+ .preamble p {
+               border-bottom: 5px solid #f00;
+ }
+/*#################################    underline h3*/
+.explanation h3 {
+                 border-bottom: double
+                 5px #0000ff;
+                 width: 250px;
+}
+
+/*##################################   underline h3*/
+.participation h3{
+                  border-bottom: double
+                  5px #0000ff;
+                  width: 150px;
+}
+/*##################################   underline h3*/
+.requirements h3{
+                  border-bottom: double
+                  5px #0000ff;
+                  width: 150px;
+}
+/*##################################   The ::first-line Pseudo-element*/
+.requirements p::first-line {
+    color: orange;
+    font-variant: small-caps;
+}
+
+/*#################################    background*/
+body {
+       background-color: #cafbec;
+}
+/*################################     font*/
+h3{
+   font-family: Impact;
+   color: #5A17EB;
+}
+/*################################     underline h3*/
+.benefits h3 {
+             border-bottom: double
+             5px #0000ff;
+             width: 90px;
+}
+/*################################     dashes outline*/
+.benefits  {
+           outline-style: dashed;
+           background-color: #eff9b5;
+}
+/*################################     box*/
+.design-selection {
+height: 190px;
+width: 2000px;
+/*color: red;*/
+background-color: #2ffbe9;
+}
+/*################################    box*/
+.design-archives {
+  height: 190px;
+  width: 2000px;
+  /*color: red;*/
+  background-color:  #fbe22f;
+}
+/*################################    box*/
+.zen-resources {
+  height: 190px;
+  width: 2000px;
+  /*color: red;*/
+  background-color: #fb452f;
+}
+/*#design-archives {
+  font-size: 200px;
+}*/
+#zen-resources a{
+    color: black
+}
+
+/*.zen-resources a {
+    color: red;*/
+}
+/*################################*/

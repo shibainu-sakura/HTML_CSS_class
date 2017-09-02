@@ -1,0 +1,147 @@
+/*body {
+  background: radial-gradient(#250F34, #AD0E74);
+}*/
+
+@import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro|Work+Sans:100,400');
+
+body {
+  background: #250F34;
+  font-family: 'Source Sans Pro' sans-selif;
+  font-size: 17px;
+  padding: 60px 150px;
+}
+
+body {
+  background-color: #250F34;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family:"Work Sans", sans-serif;
+  font-weight: 100;
+}
+
+.navbar-default{
+  border-color: transparent;
+  background-color: transparent;
+}
+/*##################################*/
+.navbar-brand{
+  margin-right: 200px;
+}
+/*##################################*/
+.regular-header {
+  font-weight: 400;
+}
+
+.upcased {
+  text-transform: uppercase;
+}
+
+.header-section {
+  padding: 120px 0;
+}
+
+.white-text {
+  color: white;
+}
+
+.big-header {
+  font-size: 60px;
+}
+
+.navbar-default {
+  background: transparent;
+  border-color: transparent;
+}
+
+.navbar-logo {
+  width: 80px;
+}
+
+.btn-default {
+  background: transparent;
+  border-radius: 20px;
+  border: 2px solid white;
+  color: white;
+}
+/*############# border #####################*/
+.step-section {
+  border-top: 2px solid #E3336A;
+  padding: 80px 0 400px 0;
+}
+/*############### Col ###################*/
+/*#### size #### */
+.box {
+  width: 100%;
+  padding: 40px;
+}
+/*#### icon #### */
+.glyphicon {
+  font-size: 60px;
+}
+/*#### left box #### */
+.box-blue {
+  /*background-color: blue;*/
+  background-image: linear-gradient(to right, #3A87B0, #57B9BC);
+}
+.blue-border {
+  border-bottom: 2px solid blue;
+}
+/*#### center box #### */
+.box-pink {
+  /*background-color: pink;*/
+  background-image: linear-gradient(to right, #DE4A8F, #ed6da8);
+}
+.pink-border {
+  border-bottom: 2px solid pink;
+}
+/*#### right box #### */
+.box-purple {
+  /*background-color: purple*/
+  background-image: linear-gradient(to right, #af3684, #AD0E74);
+}
+.purple-border {
+  border-bottom: 2px solid purple;
+}
+/*#### padding #### */
+.underbox-text {
+  padding: 30px;
+}
+/*################ Step section ##################*/
+/*#### size #### */
+.box {
+  width: 100%;
+  padding: 40px;
+}
+/*#### icon #### */
+.glyphicon {
+  font-size: 20px;
+}
+/*#### left box #### */
+.box-step_section1 {
+  background-color: #e2269a;
+  /*background-image: linear-gradient(to right, #3A87B0, #57B9BC);*/
+}
+/*#### center box #### */
+.box-step_section2 {
+  background-color:  #e2269a;
+  /*background-image: linear-gradient(to right, #DE4A8F, #ed6da8);*/
+}
+/*#### right box #### */
+.box-step_section3 {
+  background-color: #e2269a;
+  /*background-image: linear-gradient(to right, #af3684, #AD0E74);*/
+}
+/*#### button #### */
+.btn-default {
+  background: transparent;
+  border-radius: 20px;
+  border: 2px solid white;
+  color: white;
+}
+/*#### margin #### */
+.simple_to_sophisticated-section
+
+/*##################################*/
+
+/*##################################*/

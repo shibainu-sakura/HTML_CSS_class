@@ -1,0 +1,84 @@
+/*stylesheet*/
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro|Work+Sans:100,400");
+body {
+  background-color: #160827;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 17px; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 100; }
+
+.regular-header {
+  font-weight: 400; }
+
+.upcased {
+  text-transform: uppercase; }
+
+.header-section {
+  padding: 120px 0; }
+
+.white-text {
+  color: white; }
+
+.big-header {
+  font-size: 60px; }
+
+.navbar-default {
+  background: transparent;
+  border-color: transparent; }
+
+.navbar-logo {
+  width: 80px; }
+
+.btn-default {
+  background: transparent;
+  border-radius: 20px;
+  border: 2px solid white;
+  color: white; }
+
+.step-section {
+  border-top: 2px solid #E3336A;
+  padding: 80px 0 400px 0; }
+
+.whisper-section {
+  background-color: #F6F4F8;
+  padding: 80px 0; }
+
+.approachable-section {
+  background-color: white;
+  padding: 80px 40px;
+  /*margin-top: -200px;*/
+  position: relative;
+  top: -200px; }
+
+.box {
+  width: 100%;
+  padding: 40px; }
+
+.box-blue {
+  /*background-color: blue;*/
+  background-image: linear-gradient(to right, #3A87B0, #57B9BC); }
+
+.box-pink {
+  background-color: pink; }
+
+.box-purple {
+  background-color: purple; }
+
+.blue-border {
+  border-bottom: 2px solid blue; }
+
+.pink-border {
+  border-bottom: 2px solid pink; }
+
+.purple-border {
+  border-bottom: 2px solid purple; }
+
+.underbox-text {
+  padding: 30px; }
+
+.glyphicon {
+  font-size: 60px; }
+
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,166 @@
+/*##############body###################*/
+
+/*body  {
+         background-image: url(https://static.pexels.com/photos/87646/horsehead-nebula-dark-nebula-constellation-orion-87646.jpeg);
+}*/
+body {
+    padding: 60px 150px;
+}
+
+body {
+    background-color: #250F34;
+    color: white;
+}
+
+/*############say hello to grav##############*/
+img.moon{
+         float:left;
+         height: 100px;
+         width: 100px;
+         margin-left: 100px;
+}
+img.earth{
+          float:right;
+          height: 60px;
+          width: 60px;
+          margin-right: 100px;
+}
+/*#################################*/
+/*.logo{
+  text-align: left;
+}
+.brand {
+  text-align: left;
+}*/
+/*#################################*/
+
+body{
+text-align:center;
+}
+
+.box{
+margin-left:auto;
+margin-right:auto;
+text-align:left;
+}
+
+img {
+  text-align: right;
+  height: 30px;
+  width: 30px;
+}
+/*#############logo and menu##################*/
+.logo{
+      height: 30px;
+      width: 30px;
+}
+#globalnavi{
+  margin: 0;
+  padding: 0;
+  width: ***;
+}
+
+#globalnavi ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#globalnavi li{
+  float: right;
+  width: 150px;
+  margin: 0;
+  padding: 0;
+}
+
+
+#globalnavi a:hover{
+  background-color: blue;
+  color: black;
+}
+/*###############################*/
+.button1{
+  width:150px; /* 横幅 */
+  padding:5px; /* 内側余白 */
+  border:solid 2px #ccc; /* 罫線 */
+  border-radius:25px; /* 角丸 */
+}
+/*###########JUST 3 QUICK STEPS####################*/
+.install{
+         height: 100px;
+         width: 100px;
+         background-color: #85A9C7;
+}
+.build{
+       height: 100px;
+       width: 100px;
+       background-color: #DE4A8F;
+}
+.maintain{
+          height: 100px;
+          width: 100px;
+          background-color: #AD0E74;
+}
+
+/*###############################*/
+.JUST 3 QUICK STEPS p{
+  text-align: center;
+}
+/*##################################*/
+.button2{
+  width:150px; /* 横幅 */
+  padding:5px; /* 内側余白 */
+  border:solid 2px #ccc; /* 罫線 */
+  border-radius:25px; /* 角丸 */
+  /*color: white;*/
+}
+/*##################################*/
+.button3{
+  width:150px;
+  padding:5px;
+  border:solid 2px;
+  border-radius:25px;
+  /*color: white;*/
+}
+/*##################################*/
+.button4{
+  width:150px;
+  padding:5px;
+  border:solid 2px;
+  border-radius:25px;
+  /*color: white;*/
+}
+/*##################################*/
+.button5{
+  width:150px;
+  padding:5px;
+  border:solid 2px;
+  border-radius:25px;
+  /*color: white;*/
+}
+/*##################################*/
+.button6{
+  width:150px;
+  padding:5px;
+  border:solid 2px;
+  border-radius:25px;
+  /*color: white;*/
+}
+/*##################################*/
+.button7{
+  width:150px;
+  padding:5px;
+  border:solid 2px;
+  border-radius:25px;
+  /*color: white;*/
+}
+/*##################################*/
+.button8{
+  width:150px;
+  padding:5px;
+  border:solid 2px;
+  border-radius:25px;
+  color: white;
+  background-color: #DE4A8F;
+}
+/*##################################*/

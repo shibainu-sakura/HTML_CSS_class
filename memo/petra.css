@@ -1,0 +1,56 @@
+.section{
+          display: inline-block;
+          margin-right: -0.25em;
+          box-sizing: border-box; /*box-sizing magic*/
+          width: calc((100% -3em)/4);
+          }
+.section: not(:nth-of-type(4n+1)){
+                                  margin-left: 1em;
+                                  } /*selector magic*/
+
+fluind-container{
+                 margin: 0 auto;
+                 width: 90%;
+                 max-width: 60em; /*margin magic
+}
+
+article{
+        overflow: hidden;
+        } /*clearfrix magic*/
+
+.taka{
+       min-height: 15em;
+     } /*min-height magic*/
+
+.suzu{
+      grid-templete-columns: repeat(5, 20fr);
+      grid-gap: 1em;
+      }
+
+.mizu{
+      flex-wrap: wrap;
+      justify-content: space-between;  /*magic fluid glitter*/
+      align-items: flex-start /*magic justify*/
+      }
+
+aside{
+      desplay: block
+      top: 50%
+      left: 50%
+      transform: translate(-50%, -50%);
+}
+
+
+/*
+<reference>
+website: box-sizing CSS-tricks
+         Mozilla developer box
+         CSS MDN
+         http://wordpresscollege.org/bootstrap/bootstrap3-gridsystem/
+-rem
+-min height: 100vh
+
+
+
+
+*/
